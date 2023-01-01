@@ -7,12 +7,5 @@
       <jdbc-driver>java.sql.Driver</jdbc-driver>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="@freelect-springboot2-webservice.cdr3ncyvbhrf.ap-northeast-2.rds.amazonaws.com" uuid="906176bd-8666-4966-bad3-db628a488839">
-      <driver-ref>mariadb</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://freelect-springboot2-webservice.cdr3ncyvbhrf.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
   </component>
 </project>
